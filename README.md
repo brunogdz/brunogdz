@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
  <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/liperds/count.svg"/>
+    <img alingn="center" src="https://profile-counter.glitch.me/brunogdz/count.svg"/>
 </p>
