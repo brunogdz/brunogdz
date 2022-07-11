@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a align="center">
+
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunogdz&theme=github_dark)
+ 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brunogdz&theme=github_dark)
-</a>
+
  <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/brunogdz/count.svg"/>
