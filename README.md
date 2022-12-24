@@ -15,7 +15,7 @@
 
 🔭 I'm working as Software Engineer
 
-🌱 I'm currently focused on NodeJS, JavaScript, Typescript, React and React Native.
+🌱 I'm currently focused on NodeJS, Ruby on Rails, JavaScript, Typescript, React and React Native.
 
 ✍ I’m currently learning more TypeScript and starting with C#
 
